@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/omesh139/Pair/tree/main">
-    <img alt="RockyMD docs" height="500" src="https://ibb.co/Kc5FpVrd">
+    <img alt="RockyMD docs" height="500" src="https://i.ibb.co/ZRfWpcM5/Chat-GPT-Image-Jun-27-2025-07-29-11-AM.png">
   </a>
 </p>
     
